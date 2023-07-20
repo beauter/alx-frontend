@@ -51,4 +51,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Beauter Maraji** - [beauter](https://github.com/beauter)
